@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "name": "evee",
+      "price": 5000,
+      "image": "../elementos/evee.jpg",
+      "id": 1
+    },
+    {
+      "name": "pikachu",
+      "price": 4000,
+      "image": "../elementos/pikachu.jpg",
+      "id": 2
+    },
+    {
+      "name": "bolbasor",
+      "price": 4000,
+      "image": "../elementos/bolbasor.jpg",
+      "id": 3
+    },
+    {
+      "name": "charozart",
+      "price": 4000,
+      "image": "../elementos/charozart.jpg",
+      "id": 4
+    },
+    {
+      "name": "blastos",
+      "price": 4000,
+      "image": "../elementos/blastos.jpg",
+      "id": 5
+    },
+    {
+      "name": "skarul",
+      "price": 4000,
+      "image": "../elementos/skarul.jpg",
+      "id": 6
+    },
+    {
+      "id": "1441",
+      "name": "alura",
+      "price": "40000",
+      "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png"
+    }
+  ]
+}
